@@ -8,7 +8,7 @@ namespace DirectorWorkerBooker
         {
             var director = new Director();
             director.JobT();
-            var accountant = new Booker();
+            var booker = new Booker();
             booker.JobT();
             var worker = new Worker();
             worker.JobT();
