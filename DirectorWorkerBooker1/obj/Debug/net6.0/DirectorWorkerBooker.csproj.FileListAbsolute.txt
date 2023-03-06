@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\DirectorWorkerBooker\bin\Debug\net6.0\DirectorWorkerBooker.exe
+C:\Users\Asus\source\repos\DirectorWorkerBooker\bin\Debug\net6.0\DirectorWorkerBooker.deps.json
+C:\Users\Asus\source\repos\DirectorWorkerBooker\bin\Debug\net6.0\DirectorWorkerBooker.runtimeconfig.json
+C:\Users\Asus\source\repos\DirectorWorkerBooker\bin\Debug\net6.0\DirectorWorkerBooker.dll
+C:\Users\Asus\source\repos\DirectorWorkerBooker\bin\Debug\net6.0\DirectorWorkerBooker.pdb
+C:\Users\Asus\source\repos\DirectorWorkerBooker\obj\Debug\net6.0\DirectorWorkerBooker.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DirectorWorkerBooker\obj\Debug\net6.0\DirectorWorkerBooker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\DirectorWorkerBooker\obj\Debug\net6.0\DirectorWorkerBooker.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\DirectorWorkerBooker\obj\Debug\net6.0\DirectorWorkerBooker.AssemblyInfo.cs
+C:\Users\Asus\source\repos\DirectorWorkerBooker\obj\Debug\net6.0\DirectorWorkerBooker.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DirectorWorkerBooker\obj\Debug\net6.0\DirectorWorkerBooker.dll
+C:\Users\Asus\source\repos\DirectorWorkerBooker\obj\Debug\net6.0\refint\DirectorWorkerBooker.dll
+C:\Users\Asus\source\repos\DirectorWorkerBooker\obj\Debug\net6.0\DirectorWorkerBooker.pdb
+C:\Users\Asus\source\repos\DirectorWorkerBooker\obj\Debug\net6.0\DirectorWorkerBooker.genruntimeconfig.cache
+C:\Users\Asus\source\repos\DirectorWorkerBooker\obj\Debug\net6.0\ref\DirectorWorkerBooker.dll
