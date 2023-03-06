@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DirectorWorkerBooker
 {
-    public interface JobTitle
+    public interface IJobTitle
     {
         public void JobT();
     }
