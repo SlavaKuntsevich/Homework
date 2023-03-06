@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DirectorWorkerBooker
 {
-    class Director : JobTitle
+    class Director : IJobTitle
     {
         string job { get; set; } = "Директор";
 
