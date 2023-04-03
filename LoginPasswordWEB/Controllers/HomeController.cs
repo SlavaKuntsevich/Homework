@@ -41,7 +41,7 @@ namespace LoginPasswordWEB.Controllers
 			{
 				return Redirect("~/Home/Index");
 			}
-			else return Redirect("~/Home/LoginError");
+			return Redirect("~/Home/LoginError");
 		}
 		public IActionResult Error()
 		{
